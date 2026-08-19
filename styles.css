@@ -66,6 +66,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--clay); outline-
 .topic-row { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 3rem; }
 .topic-row span { border: 1px solid var(--line); padding: .65rem .85rem; border-radius: 99px; font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; }
 .section-heading { display: flex; justify-content: space-between; align-items: end; gap: 2rem; margin-bottom: 3rem; }
+.section-links { display:flex; flex-wrap:wrap; justify-content:flex-end; gap:1.25rem; }
 .section-heading h2, .data-callout h2, .page-intro h1 { font-family: var(--font-serif); font-weight: 400; letter-spacing: -.04em; }
 .section-heading h2 { font-size: clamp(2.8rem, 5vw, 5rem); margin: .75rem 0 0; line-height: .95; }
 .project-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line); }
@@ -140,6 +141,21 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--clay); outline-
 .archive-disclaimer p { font-family:var(--font-sans); font-size:.95rem; line-height:1.6; margin:.75rem 0; }
 .archive-disclaimer a { display:inline-block; font-size:.72rem; font-weight:650; text-transform:uppercase; letter-spacing:.08em; }
 .archive-original { white-space:normal; }
+.essay-gateway { padding:clamp(3rem,6vw,5rem) clamp(1.25rem,6vw,7rem); display:grid; grid-template-columns:1.2fr .8fr; gap:8vw; align-items:center; background:var(--acid); border-bottom:1px solid var(--line); }
+.essay-gateway h2, .essay-manifesto h2, .essay-coming h2, .archive-bridge h2 { font-family:var(--font-serif); font-weight:400; letter-spacing:-.035em; }
+.essay-gateway h2 { font-size:clamp(2.8rem,5vw,5.5rem); line-height:.95; margin:.75rem 0 0; }
+.essay-gateway p { max-width:620px; line-height:1.65; }
+.essay-hero { background:linear-gradient(125deg,var(--paper) 0 65%,var(--paper-deep) 65% 100%); }
+.essay-manifesto { display:grid; grid-template-columns:1.2fr .8fr; gap:8vw; align-items:start; }
+.essay-manifesto h2 { font-size:clamp(2.6rem,5vw,5rem); line-height:1; margin:.75rem 0 0; }
+.essay-copy p { color:var(--muted); font-family:var(--font-serif); font-size:1.3rem; line-height:1.65; margin:0 0 1.5rem; }
+.essay-coming { padding:clamp(5rem,9vw,8rem) clamp(1.25rem,6vw,7rem); display:grid; grid-template-columns:1.2fr .8fr; gap:8vw; background:var(--clay); color:white; }
+.essay-coming h2 { font-size:clamp(3rem,6vw,6.5rem); line-height:.92; margin:.75rem 0 0; }
+.essay-coming > div:last-child p { color:#f6ddd7; line-height:1.7; margin:0 0 1rem; }
+.archive-bridge { padding:clamp(4rem,7vw,6rem) clamp(1.25rem,6vw,7rem); background:var(--paper-deep); }
+.archive-bridge h2 { font-size:clamp(2.5rem,4vw,4.5rem); margin:.75rem 0 1rem; }
+.archive-bridge p { max-width:650px; color:var(--muted); line-height:1.65; }
+.archive-bridge .text-link { display:inline-block; margin-top:1rem; }
 .back-link { display:inline-block; margin-bottom:2rem; font-size:.75rem; text-transform:uppercase; letter-spacing:.08em; }
 .site-footer { background:#101612; color:white; padding:5rem clamp(1.25rem,6vw,7rem) 2rem; display:grid; grid-template-columns:2fr 1fr 1fr; gap:4rem; }
 .footer-title span { font-family:var(--font-serif); font-size:5rem; color:var(--acid); }
@@ -156,7 +172,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--clay); outline-
   .hero h1 span, .hero-copy, .hero-actions { margin-left:0; }
   .hero-copy { margin-top:3rem; }
   .map-field { width:75vw; opacity:.18; }
-  .statement, .data-callout, .research-item, .profile-grid, .contact-grid, .archive-heading { grid-template-columns:1fr; }
+  .statement, .data-callout, .research-item, .profile-grid, .contact-grid, .archive-heading, .essay-gateway, .essay-manifesto, .essay-coming { grid-template-columns:1fr; }
   .project-grid { grid-template-columns:1fr; gap:1px; }
   .dataset-row { grid-template-columns:1fr auto; }
   .dataset-row > :nth-child(2), .dataset-row > :nth-child(3) { display:none; }
@@ -169,6 +185,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--clay); outline-
   .hero h1 { font-size:clamp(3.5rem,18vw,5rem); }
   .hero-actions { align-items:flex-start; flex-direction:column; }
   .section-heading { align-items:flex-start; flex-direction:column; }
+  .section-links { justify-content:flex-start; }
   .note-row { grid-template-columns:1fr auto; gap:1rem; }
   .note-row time { grid-column:1/-1; }
   .contact-strip { align-items:flex-start; flex-direction:column; }
