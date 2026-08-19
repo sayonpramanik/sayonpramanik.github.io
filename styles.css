@@ -129,6 +129,17 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--clay); outline-
 .article-body { max-width:720px; margin:0 auto; padding:0 1.25rem 7rem; }
 .article-body h2 { font-family:var(--font-serif); font-size:2.3rem; font-weight:400; margin:3rem 0 1rem; }
 .article-body p { font-family:var(--font-serif); font-size:1.3rem; line-height:1.7; color:#3f4842; }
+.archive-section { padding:clamp(5rem,9vw,8rem) clamp(1.25rem,6vw,7rem); border-top:1px solid var(--line); background:var(--paper-deep); }
+.archive-heading { display:grid; grid-template-columns:1.4fr .6fr; gap:8vw; align-items:end; margin-bottom:3rem; }
+.archive-heading h2 { font-family:var(--font-serif); font-size:clamp(3rem,6vw,6.5rem); font-weight:400; letter-spacing:-.04em; line-height:.94; margin:.75rem 0 0; }
+.archive-heading > p { color:var(--muted); line-height:1.65; margin:0; }
+.archive-list { border-color:rgba(24,32,28,.3); }
+.archive-source { display:inline-block; margin-top:2rem; }
+.archive-disclaimer { background:var(--paper-deep); border-left:4px solid var(--clay); padding:1.4rem 1.5rem; margin:0 0 3rem; }
+.archive-disclaimer strong { text-transform:uppercase; letter-spacing:.1em; font-size:.7rem; }
+.archive-disclaimer p { font-family:var(--font-sans); font-size:.95rem; line-height:1.6; margin:.75rem 0; }
+.archive-disclaimer a { display:inline-block; font-size:.72rem; font-weight:650; text-transform:uppercase; letter-spacing:.08em; }
+.archive-original { white-space:normal; }
 .back-link { display:inline-block; margin-bottom:2rem; font-size:.75rem; text-transform:uppercase; letter-spacing:.08em; }
 .site-footer { background:#101612; color:white; padding:5rem clamp(1.25rem,6vw,7rem) 2rem; display:grid; grid-template-columns:2fr 1fr 1fr; gap:4rem; }
 .footer-title span { font-family:var(--font-serif); font-size:5rem; color:var(--acid); }
@@ -145,7 +156,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--clay); outline-
   .hero h1 span, .hero-copy, .hero-actions { margin-left:0; }
   .hero-copy { margin-top:3rem; }
   .map-field { width:75vw; opacity:.18; }
-  .statement, .data-callout, .research-item, .profile-grid, .contact-grid { grid-template-columns:1fr; }
+  .statement, .data-callout, .research-item, .profile-grid, .contact-grid, .archive-heading { grid-template-columns:1fr; }
   .project-grid { grid-template-columns:1fr; gap:1px; }
   .dataset-row { grid-template-columns:1fr auto; }
   .dataset-row > :nth-child(2), .dataset-row > :nth-child(3) { display:none; }
