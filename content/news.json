@@ -1,5 +1,29 @@
 [
   {
+    "slug": "laxman-temple-lidar",
+    "date": "2026-09-24",
+    "title": "LiDAR analysis of Laxman Temple, Sirpur",
+    "category": "Research note",
+    "summary": "A note on using LiDAR point-cloud data to investigate the relationship between temple geometry and construction.",
+    "source_pack": "Sayon Pramanik, direct account, 24 September 2026",
+    "body": [
+      [
+        "p",
+        "During my work at NIT Raipur, I analysed a LiDAR point cloud of Laxman Temple in Sirpur. I used its measured three-dimensional geometry to investigate how the temple’s form relates to its construction."
+      ],
+      [
+        "p",
+        "The point cloud lets me examine the built structure directly and test geometric relationships using recorded spatial data. The question begins with the temple itself, rather than a theoretical account of how it was built."
+      ]
+    ],
+    "related": [
+      [
+        "/research/#temple-3d",
+        "LiDAR analysis in Research"
+      ]
+    ]
+  },
+  {
     "slug": "from-spatial-experience-to-spatial-evidence",
     "date": "2026-09-24",
     "title": "From spatial experience to spatial evidence",

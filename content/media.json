@@ -11,6 +11,61 @@
     "verified": "2026-09-24"
   },
   {
+    "id": "heritage-seminar-2024",
+    "category": "Institutional event · Heritage",
+    "publisher": "Architects & Engineers Guild (India)",
+    "date_label": "12 November 2024",
+    "title": "Speaker at the National Heritage Seminar",
+    "summary": "The organiser lists Sayon Pramanik among the speakers at its National Heritage Seminar held at Jadavpur University, Kolkata.",
+    "url": "https://aeguild.in/nationa-seminar-2024/",
+    "source_label": "View the organiser’s event record",
+    "verified": "2026-09-24"
+  },
+  {
+    "id": "amps-committee-2025",
+    "category": "Academic service",
+    "publisher": "AMPS",
+    "date_label": "2025–26 committee page",
+    "title": "Listed as an AMPS scientific committee reviewer",
+    "summary": "AMPS lists Sayon Pramanik among its scientific committee reviewers. The page retains his earlier NIT Raipur affiliation.",
+    "url": "https://amps-research.com/scientific-committee/",
+    "source_label": "View the committee listing",
+    "verified": "2026-09-24"
+  },
+  {
+    "id": "nit-raipur-2025-table-tennis",
+    "category": "Institutional coverage · Sport",
+    "publisher": "NIT Raipur, Mirror newsletter",
+    "date_label": "2025 tournament; published in Volume 9, Issue 1",
+    "title": "Inter-NIT 2025 table-tennis results",
+    "summary": "NIT Raipur’s newsletter names Sayon Pramanik as first in men’s singles and part of the first-place men’s team and mixed-doubles pair at the 2025 Inter-NIT tournament. The Tribune covers the overall tournament result but does not name him individually.",
+    "url": "https://www.nitrr.ac.in/downloads/newsletter/2026/Mirror_V9i1%28Website%29.pdf",
+    "source_label": "Read the institute newsletter (PDF)",
+    "verified": "2026-09-24"
+  },
+  {
+    "id": "tribune-2025-team",
+    "category": "Related team coverage · Sport",
+    "publisher": "The Tribune",
+    "date_label": "29 December 2025",
+    "title": "Inter-NIT tournament concludes in Jalandhar",
+    "summary": "The report covers the 2025 Inter-NIT tournament; its photograph caption identifies NIT Raipur players after a victory. It does not name Sayon Pramanik individually, so this is included only as team context.",
+    "url": "https://www.tribuneindia.com/news/jalandhar/all-india-inter-nit-faculty-and-staff-tourney-concludes-in-jalandhar/",
+    "source_label": "Read the newspaper report",
+    "verified": "2026-09-24"
+  },
+  {
+    "id": "nit-raipur-2024-table-tennis",
+    "category": "Institutional coverage · Sport",
+    "publisher": "NIT Raipur, Mirror newsletter",
+    "date_label": "Sports meet, 20–22 December 2024",
+    "title": "Inter-NIT table-tennis medals",
+    "summary": "The NIT Raipur newsletter names Sayon Pramanik as gold medallist in table-tennis singles and doubles, and bronze medallist in mixed doubles, at the 2024 Inter-NIT sports meet. It also reports a bronze in the team event.",
+    "url": "https://www.nitrr.ac.in/downloads/newsletter/2024/V7i4_Mirror%20%281%29.pdf",
+    "source_label": "Read the institute newsletter (PDF)",
+    "verified": "2026-09-24"
+  },
+  {
     "id": "tribune-2022",
     "category": "Newspaper coverage · Sport",
     "publisher": "The Tribune",
@@ -19,6 +74,17 @@
     "summary": "The report names Sayon Pramanik of NIT Raipur as runner-up in the men’s singles event at the All-India Inter-NIT Faculty and Staff Tournament. This item concerns a sporting achievement during his time at NIT Raipur.",
     "url": "https://www.tribuneindia.com/news/himachal/nit-raipur-lifts-overall-trophy-in-table-tennis-462717/",
     "source_label": "Read the newspaper report",
+    "verified": "2026-09-24"
+  },
+  {
+    "id": "divya-himachal-2022",
+    "category": "Newspaper coverage · Sport",
+    "publisher": "Divya Himachal",
+    "date_label": "20 December 2022",
+    "title": "Inter-NIT table-tennis silver medal",
+    "summary": "The report names Sayon Pramanik of NIT Raipur as silver medallist in the men’s singles event at the 2022 Inter-NIT tournament. It covers the same result as The Tribune report already listed above.",
+    "url": "https://www.divyahimachal.com/2022/12/nit-hamirpur-became-overall-champion-won-titles-in-badminton-table-tennis-chess-tournament/",
+    "source_label": "Read the Hindi newspaper report",
     "verified": "2026-09-24"
   }
 ]
