@@ -1,5 +1,89 @@
 [
   {
+    "slug": "kolkata-heritage-carrying-capacity",
+    "date": "2026-10-12",
+    "title": "Carrying capacity in Kolkata’s heritage core",
+    "category": "Publication note",
+    "summary": "A chapter with Sampurna Biswas examines mobility and spatial constraints in Kolkata’s heritage core.",
+    "source_pack": "2026-10-08 | Weekly content pack | 6a6af761-4458-83ed-b79d-8e7975f11945",
+    "body": [
+      [
+        "p",
+        "My chapter with Sampurna Biswas, “Evaluating Carrying Capacity of Heritage Core of Post-Colonial City: Case of Kolkata, India”, was published online on 2 January 2026 in Urban Sustainable Solutions, pages 105–126."
+      ],
+      [
+        "p",
+        "The study examines how street configuration and mobility demands interact with heritage preservation. The publisher’s abstract describes Space Syntax analysis, figure-ground mapping and pedestrian catchments linked to bus-stop accessibility. It reports constraints associated with poor connectivity and congestion, and considers route diversions through scenario modelling."
+      ],
+      [
+        "h2",
+        "A question for heritage planning"
+      ],
+      [
+        "p",
+        "The wider question is how changes to circulation can support everyday access while retaining the spatial relationships that give a historic district its character. This is a reflection prompted by the publication, rather than a claim that proposed interventions have been implemented."
+      ],
+      [
+        "p",
+        "This note revisits the January publication; it is not an announcement of a newly published chapter."
+      ]
+    ],
+    "sources": [
+      [
+        "https://doi.org/10.1007/978-3-031-94362-1_6",
+        "Pramanik and Biswas (2026), Springer chapter"
+      ]
+    ],
+    "related": [
+      [
+        "/publications/#kolkata-heritage-2026",
+        "Publication details"
+      ]
+    ]
+  },
+  {
+    "slug": "linga-raj-temple-best-paper-award",
+    "date": "2026-10-12",
+    "title": "2020 Best Paper Award for Linga Raj Temple study",
+    "category": "Award · Archive",
+    "summary": "NIT Raipur’s April 2020 newsletter records the Best Paper Award for Sayon Pramanik’s Space Syntax study of Linga Raj Temple.",
+    "source_pack": "Sayon clarification 2026-09-24; NIT Raipur Mirror April 2020, verified 2026-10-01",
+    "body": [
+      [
+        "p",
+        "This note records an award from 2020. NIT Raipur’s April 2020 Mirror newsletter reports that I received a Best Paper Award at the International Conference on History and Theory of Architecture in Zurich on 13 January 2020."
+      ],
+      [
+        "p",
+        "The award was for “Accessibility and Visibility through Space Syntax Analysis of the Linga Raj Temple in Odisha, India.” The paper examines temple visibility and accessibility through point isovist studies and Visibility Graph Analysis."
+      ],
+      [
+        "p",
+        "The institute’s newsletter records the award, and the publication record describes the study."
+      ]
+    ],
+    "sources": [
+      [
+        "https://nitrr.ac.in/downloads/newsletter/2020/Mirror%20Vol%203%20Issue%201%201%20Apr%202020%2008-04-2020.pdf#page=7",
+        "NIT Raipur Mirror, April 2020, PDF page 7"
+      ],
+      [
+        "https://publications.waset.org/10010997/accessibility-and-visibility-through-space-syntax-analysis-of-the-linga-raj-temple-in-odisha-india",
+        "Publication record for the paper"
+      ]
+    ],
+    "related": [
+      [
+        "/media/#linga-raj-best-paper-2020",
+        "Institutional coverage"
+      ],
+      [
+        "/publications/#linga-raj-2020",
+        "Paper in Publications"
+      ]
+    ]
+  },
+  {
     "slug": "laxman-temple-lidar",
     "date": "2026-09-24",
     "title": "LiDAR analysis of Laxman Temple, Sirpur",
